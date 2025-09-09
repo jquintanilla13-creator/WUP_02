@@ -51,6 +51,8 @@ This is measuring the VitC content is dependent to the Cult. If you take the sam
 favstats(VitC~Cult,data=veggy)
 ```
 
+The Q3 for c39 has a value of 54.75 which is lower that the Q1 value for c52 at 58. Normally when this happens, statistical results will show that they are different significantly. The chances between them is a very small number.
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
