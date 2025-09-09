@@ -66,3 +66,5 @@ The chances of getting a result like this is 0.00000003405. When we get chances 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+First we made a boxplot with the veggy data and found that the middle of the c52 plot is entirely above the middle of the c39 plot. Then we discovered numerical descriptive results which we concluded that the Q3 for c39 has a value of 54.75 which is lower that the Q1 value for c52 at 58. When this happens, statistical results will show that they are different. The chances between them is a very small number. After this we ran a t-test and found that they are significantly different. 
