@@ -41,6 +41,8 @@ I looked at the data and then figured out I had a numerical explained by a categ
 boxplot(VitC~Cult,data=veggy)
 ```
 
+This is measuring the VitC content is dependent to the Cult. If you take the samples and line them up, the middle 50%, is whats in the box. The middle of the c52 plot is entirely above the middle of the c39 plot.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
