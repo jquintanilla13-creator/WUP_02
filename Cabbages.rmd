@@ -61,6 +61,7 @@ The Q3 for c39 has a value of 54.75 which is lower that the Q1 value for c52 at 
 t.test(VitC~Cult,data=veggy)
 ```
 
+The chances of getting a result like this is 0.00000003405. When we get chances like this, we reject the hypothesis that states there is no difference between them. This means they are different. 
 
 # Discussion and Conclusion
 
